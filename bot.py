@@ -73,4 +73,4 @@ async def send_giveaway_command(interaction: discord.Interaction, target_user: d
         await interaction.followup.send(f"⚠️ An unexpected error occurred: {e}", ephemeral=True)
 
 # Run your bot (Be sure to replace this placeholder with your actual bot token)
-bot.run('MTU0ODMzMDU2MTg3MjA3Mjc3NA.GurFwO.OkOO0EzdV-TxGo7sTYPlEihxszVKlhI9mnM6fY')
+bot.run('MTU0ODMzMDU2MTg3MjA3Mjc3NA.G_uABc.3n2Z_ZW3hClPUXxbFjZdrYv47HDcwZ6dJixBA8')
